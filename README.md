@@ -46,7 +46,7 @@ OOIS Google Drive Link: (https://drive.google.com/file/d/1iQZm2boHvyTAMf8LUo0fll
 ## Usage
  - **Pre-trained models for each module should be downloaded before using. Instructions to download pre-trained model are shown in <a href='#Download Pre-trained Models'>Download Pre-trained Models</a>
 ```Shell
-python Main.py [-h] [--HOME_PATH] [--SSD_weights_PATH] [--size_input_images]
+python Main.py [--h] [--HOME_PATH] [--SSD_weights_PATH] [--size_input_images]
                [--num_classes_of_objects [--Image_ID] [Top_n_objects2Segment] [--Bicubic_UpSampling_Factor]
                [--cuda]
                
